@@ -74,6 +74,7 @@ CineMatch/
 ├── Dockerfile
 ├── .dockerignore
 ├── requirements.txt
+├── Project_Submission.pdf
 └── README.md
 ```
 
