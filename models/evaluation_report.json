@@ -1,0 +1,16 @@
+{
+  "collaborative_filtering": {
+    "rmse": 0.8895,
+    "precision_at_10": 0.6493,
+    "recall_at_10": 0.6834
+  },
+  "content_based": {
+    "precision_at_10": 0.5731,
+    "recall_at_10": 0.6371,
+    "coverage": 0.5898
+  },
+  "hybrid": {
+    "precision_at_10": 0.6352,
+    "recall_at_10": 0.6772
+  }
+}
